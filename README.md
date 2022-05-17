@@ -1,4 +1,3 @@
-# C-Sharp-Wrapper-For-Native-Windows-Methods---Interop
-This C# Wrapper For Native Windows Methods for Interoperability
+# C# Wrapper For Native Windows Methods - Interoperability methods
 
 It was designed to allow accessing low-level windows functions from C# environment
